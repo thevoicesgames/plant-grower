@@ -18,7 +18,7 @@ public class growcube : MonoBehaviour
     void Start()
     {
         /*count = 0;
-        activated = Random.Range(0, 100);
+        activated = Random.Range(0,200);
         if(activated > 900)
         {
             direction.x = Random.Range(-1f, 1f);
